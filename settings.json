@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dev_raheja.aternos.me",
-    "port": 30421,
+    "ip": "lfstl.aternos.me",
+    "port": 56413,
     "version": "",
     "try-creative": false
   },
