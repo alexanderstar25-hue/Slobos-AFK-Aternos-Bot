@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lfstl.aternos.me",
-    "port":56413,
+    "ip": "GoodLadSMP.aternos.me",
+    "port":55110,
     "version": "",
     "try-creative": false
   },
